@@ -42,9 +42,6 @@ Welcome to the Typing Speed Test application! This simple web-based tool allows 
 
 3. Once you have completed typing the given text, the application will display your typing speed and accuracy.
 
-## Demo
-
-[Insert link to live demo or GIF/video showcasing the application in action.]
 
 ## Contributing
 
@@ -60,8 +57,3 @@ If you'd like to contribute to the project, please follow these steps:
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
-
-- Special thanks to [insert names of any libraries, resources, or inspiration sources].
-
-Feel free to customize this README to better suit your project, and happy typing!
