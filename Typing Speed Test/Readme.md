@@ -8,7 +8,7 @@ Welcome to the Typing Speed Test Web App! This simple and user-friendly web appl
 
 2. **Randomized Texts:** The app generates random sentences for each typing test, ensuring a diverse and challenging experience for users.
 
-3. **Real-time Feedback:** Users receive real-time feedback on their typing speed (words per minute) and accuracy as they complete the test.
+3. **Real-time Feedback:** Users receive real-time feedback on their typing speed (words per minute).
 
 4. **Timer:** The app includes a timer that starts when the user begins typing and stops when the test is completed, allowing users to track their typing speed over time.
 
